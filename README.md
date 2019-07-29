@@ -1,3 +1,5 @@
+# code1
+
 package rily.merino.royalmaze.moonrosemod;
 
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
